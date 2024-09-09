@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+- <ins>Martin Balla</ins>, George M. Long, James Goodman, Raluca D. Gaina, Diego Perez-Liebana, **PyTAG: Tabletop Games for Multi-Agent Reinforcement Learning**, in IEEE Transactions on Games(ToG) (2024). [pdf](https://arxiv.org/pdf/2405.18123)
+
 - <ins>Martin Balla</ins>, George M. Long, Dominik Jeurissen, James Goodman, Raluca D. Gaina, Diego Perez-Liebana, **PyTAG: Challenges and Opportunities for Reinforcement Learning in Tabletop Games**, in Proceedings of IEEE Conference on Games (CoG), Boston, MA, USA, (2023), (Nominated for Best Paper) [pdf](/files/PyTAG-CoG23.pdf)
 
 - Raluca D. Gaina, <ins>Martin Balla</ins>, **TAG: Pandemic Competition**, in Proceedings IEEE Conference on Games (CoG), Beijing, China, 2022, [pdf](https://rdgain.github.io/assets/pdf/papers/gaina2022pandemic.pdf)

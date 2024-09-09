@@ -14,8 +14,8 @@ author_profile: true
 {% endfor %}
  -->
 
-### Research
-I worked on applying Deep Reinforcement Learning to evaluate generalisation on various GVGAI games. I am currenlty working with gridworld environments with improving generalisation in mind. I train goal-conditioned policies on randomly generated gridworld levels and then benchmark the policies on unseen levels.
+<!-- ### Research
+I worked on applying Deep Reinforcement Learning to evaluate generalisation on various GVGAI games. I am currently working with gridworld environments with improving generalisation in mind. I train goal-conditioned policies on randomly generated gridworld levels and then benchmark the policies on unseen levels. -->
 
 
 ### Tabletop Games Framework (TAG)
@@ -24,6 +24,9 @@ The Tabletop Games Framework (TAG) is a Java-based benchmark for developing mode
 	<img src="/files/tag.png" alt="TAG screenshot">
 	<figcaption>Screenshot of Pandemic, one of the currently implemented games from TAG </figcaption>
 </figure>
+
+## PyTAG
+PyTAG is a python interface for the Tabletop Games framework. PyTAG was created with the intent to bridge the gap between the tools available in Python for Reinforcement Learning and the games implemented in TAG. Tabletop games bring various challenges to RL agents compared to search-based agents, such as complex action spaces, unique observation spaces (various embeddings), multi-agent dynamics with competitive and collaborative aspects, and lots of hidden information and stochasticity. PyTAG is available on [Github](https://github.com/martinballa/PyTAG). 
 
 
 ### Java-pommerman
